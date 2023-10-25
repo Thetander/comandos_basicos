@@ -1,7 +1,9 @@
 ###########################################
 #################ORDEN#####################
 ###########################################
-NOMBRE:
-SEMESTRE:
-PRECIO
+NOMBRE:  GERSON JOEL ZUNTA YANSAPANTA
+SEMESTRE: 4
+FECHA:  20/10/2023
+PRECIO: 120$
+
 
