@@ -1,3 +1,10 @@
 ###########################################################
 #################  ALUMNOS ###############################
 #########################################################
+
+CEDULA : 180393451
+NOMBRES: GERSON JOEL
+APELLIDOS: ZUNTA YANSAPANTA
+CORREDO: JOELZUNTA@HOTMAIL.COM
+FECHA DE NACIMIENTO: 02/03/1999
+
